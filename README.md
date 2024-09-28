@@ -2,6 +2,18 @@
 
 Edited by Dxrkness/Dxrknesx
 
+## Requirements
+ - https://git-scm.com/downloads
+ - https://nodejs.org/en/download/package-manager
+ - https://pnpm.io/installation
+
+## Usage
+1. Extract the "Paradoxon-%VERSION%.zip"
+2. Rename the "Paradoxon-%VERSION%" folder to "Paradoxon"
+3. Go into the "Paradoxon" directory
+4. Open a command prompt and type "pnpm build"
+5. Then type "pnpm inject" inside the command prompt
+6. You're done!
 
 | ![image](https://github.com/Vendicated/Vencord/assets/45497981/706722b1-32de-4d99-bee9-93993b504334) |
 | :--------------------------------------------------------------------------------------------------: |
