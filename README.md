@@ -15,10 +15,6 @@ Edited by Dxrkness/Dxrknesx
 5. Then type "pnpm inject" inside the command prompt
 6. You're done!
 
-| ![image](https://github.com/Vendicated/Vencord/assets/45497981/706722b1-32de-4d99-bee9-93993b504334) |
-| :--------------------------------------------------------------------------------------------------: |
-|   A screenshot of vencord showcasing the [vencord-theme](https://github.com/synqat/vencord-theme)    |
-
 ## Features
 
 -   Super easy to install (Download Installer, open, click install button, done)
@@ -31,6 +27,10 @@ Edited by Dxrkness/Dxrknesx
 -   Privacy friendly, blocks Discord analytics & crash reporting out of the box and has no telemetry
 -   Maintained very actively, broken plugins are usually fixed within 12 hours
 -   Settings sync: Keep your plugins and their settings synchronised between devices / apps (optional)
+
+| ![image](https://github.com/Vendicated/Vencord/assets/45497981/706722b1-32de-4d99-bee9-93993b504334) |
+| :--------------------------------------------------------------------------------------------------: |
+|   A screenshot of vencord showcasing the [vencord-theme](https://github.com/synqat/vencord-theme)    |
 
 ## Disclaimer
 
