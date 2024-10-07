@@ -11,9 +11,11 @@ Edited by Dxrkness/Dxrknesx
 1. Extract the "Paradoxon-%VERSION%.zip"
 2. Rename the "Paradoxon-%VERSION%" folder to "Paradoxon"
 3. Go into the "Paradoxon" directory
-4. Open a command prompt and type "pnpm build"
-5. Then type "pnpm inject" inside the command prompt
-6. You're done!
+4. Open a command prompt and type "pnpm install"
+5. Then you need to type "pnpm build" inside the command prompt
+6. next type "pnpm inject" inside the command prompt
+7. Select "Install Vencord" or "Repair Vencord" it depends on if you already have it installed.
+8. You're done!
 
 ## Features
 
